@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "FPS (CT4).sln"
+    "dotnet.defaultSolution": "Professor_Natan_FPS.sln"
 }
